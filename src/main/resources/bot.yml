@@ -1,0 +1,2 @@
+type: irc
+mainClass: org.superfuntime.ircbot.IRCBot
