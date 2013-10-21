@@ -12,10 +12,10 @@ Installation
 Drop the jar file into Chatty's `bots` folder, add the following after `bots:` 
 in your Chatty config file changing values as needed and restart Chatty:
 
-      - type: irc
-        settings:
-             name: MyBot #The nickname the bot will use, IRC doesn't allow spaces in nicknames.
-             server: irc.ircserver.com #The IRC server address to connect to
-             channels: ["#mychannel", "#myotherchannel"] #List of channels to connect to
+        - type: irc
+          settings:
+               name: MyBot #The nickname the bot will use, IRC doesn't allow spaces in nicknames.
+               server: irc.ircserver.com #The IRC server address to connect to
+               channels: ["#mychannel", "#myotherchannel"] #List of channels to connect to
              
 For more info, see [Chatty Configuration](https://github.com/bogeymanEST/chatty/wiki/Getting-Started#configuration).
