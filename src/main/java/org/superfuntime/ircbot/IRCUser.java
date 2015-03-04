@@ -1,6 +1,6 @@
 /*
  * An easily extendable chat bot for any chat service.
- * Copyright (C) 2013 bogeymanEST
+ * Copyright (C) 2015 bogeymanEST
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
